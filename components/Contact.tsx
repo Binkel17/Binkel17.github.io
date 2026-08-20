@@ -40,7 +40,7 @@ export default function Contact() {
           <div className="col-span-12 lg:col-span-5 mb-8 lg:mb-0">
             <p className="text-muted text-lg leading-relaxed">
               Interesse an einer Zusammenarbeit?{" "}
-              <span className="text-primary">Schreib mir gerne.</span>
+              <span className="text-primary">Schreiben Sie mir gerne.</span>
             </p>
           </div>
 
