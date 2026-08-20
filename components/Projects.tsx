@@ -12,7 +12,7 @@ type Project = {
 
 const projects: Project[] = [
   {
-    title: "KI-Stadtführer",
+    title: "TravelAi",
     role: "Master Thesis",
     status: "In Progress",
     description:

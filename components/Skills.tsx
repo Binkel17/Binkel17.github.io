@@ -5,7 +5,7 @@ const categories = [
   },
   {
     label: "Development",
-    skills: ["Python", "Unity"],
+    skills: ["Python", "React", "Next.js" "Unity",],
   },
   {
     label: "Forschungsmethoden",

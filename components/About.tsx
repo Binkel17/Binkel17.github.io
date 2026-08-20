@@ -14,13 +14,13 @@ export default function About() {
           {/* Left column — main text */}
           <div className="col-span-12 lg:col-span-7 flex flex-col gap-6 text-muted text-lg leading-relaxed">
             <p>
-              Ich bin Thorsten Gartmann — HCI-Forscher und Master-Student an der
+              Ich bin — HCI-Forscher und Master-Student an der
               Universität Siegen. Meine Arbeit bewegt sich an der Schnittstelle
               von Mensch-Computer-Interaktion, Künstlicher Intelligenz und
               Urban Experience Design.
             </p>
             <p>
-              Mein methodischer Ansatz ist <span className="text-primary">Research through Design</span>:
+              Mein methodischer Ansatz ist Research through Design:
               ich entwickle und erforsche interaktive Systeme nicht nur theoretisch,
               sondern durch das Entwerfen und Erproben konkreter Prototypen —
               mit dem Ziel, neue Erkenntnisse über die Mensch-Technik-Beziehung
