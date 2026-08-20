@@ -83,7 +83,7 @@ export default function Contact() {
             THORSTEN GARTMANN · {new Date().getFullYear()}
           </span>
           <span className="font-mono text-xs text-muted">
-            Universität Siegen · HCI · Research through Design
+            HCI · Research through Design
           </span>
         </div>
 

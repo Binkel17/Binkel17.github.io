@@ -14,7 +14,7 @@ export default function About() {
           {/* Left column — main text */}
           <div className="col-span-12 lg:col-span-7 flex flex-col gap-6 text-muted text-lg leading-relaxed">
             <p>
-              Ich bin — HCI-Forscher und Master-Student an der
+              Ich bin HCI-Forscher und Master-Student an der
               Universität Siegen. Meine Arbeit bewegt sich an der Schnittstelle
               von Mensch-Computer-Interaktion, Künstlicher Intelligenz und
               Urban Experience Design.
@@ -22,13 +22,13 @@ export default function About() {
             <p>
               Mein methodischer Ansatz ist Research through Design:
               ich entwickle und erforsche interaktive Systeme nicht nur theoretisch,
-              sondern durch das Entwerfen und Erproben konkreter Prototypen —
+              sondern durch das Entwerfen und Erproben konkreter Prototypen, 
               mit dem Ziel, neue Erkenntnisse über die Mensch-Technik-Beziehung
               zu gewinnen.
             </p>
             <p>
               Aktuell erforsche ich in meiner Master Thesis, wie KI-gestützte
-              Systeme urbane Erfahrungen bereichern können — inspiriert von
+              Systeme urbane Erfahrungen bereichern können, inspiriert von
               menschlichen Stadtführern, aber skaliert durch generative KI.
               Parallel arbeite ich als wissenschaftliche Hilfskraft im
               BMWK-geförderten Projekt VelocityAdapt an digitalen Zwillingen
