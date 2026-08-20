@@ -39,8 +39,7 @@ export default function Contact() {
           {/* Statement */}
           <div className="col-span-12 lg:col-span-5 mb-8 lg:mb-0">
             <p className="text-muted text-lg leading-relaxed">
-              Interesse an einer Zusammenarbeit, einem Forschungsprojekt oder
-              einfach einem Austausch?{" "}
+              Interesse an einer Zusammenarbeit?{" "}
               <span className="text-primary">Schreib mir gerne.</span>
             </p>
           </div>
