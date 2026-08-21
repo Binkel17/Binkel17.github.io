@@ -28,7 +28,7 @@ export default function About() {
             </p>
             <p>
               Aktuell erforsche ich in meiner Master Thesis, wie KI-gestützte
-              Systeme urbane Erfahrungen bereichern können, inspiriert von
+              Systeme urbane Experiences bereichern können, inspiriert von
               menschlichen Stadtführern, aber skaliert durch generative KI.
               Parallel arbeite ich als wissenschaftliche Hilfskraft im
               BMWK-geförderten Projekt VelocityAdapt an digitalen Zwillingen
