@@ -14,7 +14,7 @@ export default function About() {
           {/* Left column — main text */}
           <div className="col-span-12 lg:col-span-7 flex flex-col gap-6 text-muted text-lg leading-relaxed">
             <p>
-              Ich bin HCI-Forscher und Master-Student an der
+              Ich bin Master-Student im Bereich HCI an der
               Universität Siegen. Meine Arbeit bewegt sich an der Schnittstelle
               von Mensch-Computer-Interaktion, Künstlicher Intelligenz und
               Urban Experience Design.
