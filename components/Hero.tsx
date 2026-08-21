@@ -24,7 +24,7 @@ export default function Hero() {
 
             <p className="text-muted text-lg leading-relaxed max-w-xl mb-12">
               Ich erforsche die Schnittstelle von Mensch-Computer-Interaktion,
-              KI und urbaner Erfahrung mit dem Ansatz Research through Design.
+              KI und urbaner Expirience mit dem Ansatz Research through Design.
               Aktuell an der Universität Siegen.
             </p>
 
